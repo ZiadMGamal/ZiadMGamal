@@ -365,43 +365,63 @@ if __name__ == "__main__":
 
 ## Featured Projects
 
----
 
+---
+ 
 <p align="center">
+  <!--
+    Description: Production-ready computer vision pipeline with multi-object tracking
+    (SORT, ByteTrack, BoT-SORT, DeepSORT), ONNX/TensorRT optimization, and Dockerized REST API deployment.
+    ⚠️ Add this text in ObjaTrack-XL repo Settings → Description
+  -->
   <a href="https://github.com/ZiadMGamal/ObjaTrack-XL">
     <img
       height="165"
-      src="https://github-readme-stats.vercel.app/api/pin/?username=ZiadMGamal&repo=ObjaTrack-XL&theme=radical&hide_border=true"
+      src="https://github-stats-extended.vercel.app/api/pin/?username=ZiadMGamal&repo=ObjaTrack-XL&theme=radical&hide_border=true"
       alt="Featured Project 1"
     />
   </a>
+  <!--
+    Description: Production-oriented RAG system for financial documents using hybrid retrieval,
+    citation-grounded generation, and automated evaluation with Ragas.
+    ⚠️ Add this text in FinLedger.AI repo Settings → Description
+  -->
   <a href="https://github.com/ZiadMGamal/FinLedger.AI">
     <img
       height="165"
-      src="https://github-readme-stats.vercel.app/api/pin/?username=ZiadMGamal&repo=FinLedger.AI&theme=radical&hide_border=true"
+      src="https://github-stats-extended.vercel.app/api/pin/?username=ZiadMGamal&repo=FinLedger.AI&theme=radical&hide_border=true"
       alt="Featured Project 2"
     />
   </a>
 </p>
-
 <p align="center">
+  <!--
+    Description: Multi-Agent Reinforcement Learning platform for cooperative traffic signal control
+    (DQN, PPO, QMIX, MADDPG) with SUMO simulation and real-time React dashboard.
+    ⚠️ Add this text in TraffiSumo-Simulator repo Settings → Description
+  -->
   <a href="https://github.com/ZiadMGamal/TraffiSumo-Simulator">
     <img
       height="165"
-      src="https://github-readme-stats.vercel.app/api/pin/?username=ZiadMGamal&repo=TraffiSumo-Simulator&theme=radical&hide_border=true"
+      src="https://github-stats-extended.vercel.app/api/pin/?username=ZiadMGamal&repo=TraffiSumo-Simulator&theme=radical&hide_border=true"
       alt="Featured Project 3"
     />
   </a>
+  <!--
+    Description: Multi-agent AI platform with FastAPI backend, LangChain-powered LLM workflows,
+    Qdrant-based RAG pipeline, and async task processing via Celery/Redis.
+    ⚠️ Add this text in OmniFlow.Ai repo Settings → Description
+  -->
   <a href="https://github.com/ZiadMGamal/OmniFlow.Ai">
     <img
       height="165"
-      src="https://github-readme-stats.vercel.app/api/pin/?username=ZiadMGamal&repo=OmniFlow.Ai&theme=radical&hide_border=true"
+      src="https://github-stats-extended.vercel.app/api/pin/?username=ZiadMGamal&repo=OmniFlow.Ai&theme=radical&hide_border=true"
       alt="Featured Project 4"
     />
   </a>
 </p>
-
 <br>
+
 
 ## Contact me
 
