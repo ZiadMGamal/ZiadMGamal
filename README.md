@@ -377,7 +377,7 @@ if __name__ == "__main__":
   <a href="https://github.com/ZiadMGamal/ObjaTrack-XL">
     <img
       height="165"
-      src="https://github-stats-extended.vercel.app/api/pin/?username=ZiadMGamal&repo=ObjaTrack-XL&theme=radical&hide_border=true"
+      src="https://github-stats-extended.vercel.app/api/pin/?username=ZiadMGamal&repo=ObjaTrack-XL&theme=radical&hide_border=true&cache_seconds=1"
       alt="Featured Project 1"
     />
   </a>
@@ -389,7 +389,7 @@ if __name__ == "__main__":
   <a href="https://github.com/ZiadMGamal/FinLedger.AI">
     <img
       height="165"
-      src="https://github-stats-extended.vercel.app/api/pin/?username=ZiadMGamal&repo=FinLedger.AI&theme=radical&hide_border=true"
+      src="https://github-stats-extended.vercel.app/api/pin/?username=ZiadMGamal&repo=FinLedger.AI&theme=radical&hide_border=true&cache_seconds=1"
       alt="Featured Project 2"
     />
   </a>
@@ -403,7 +403,7 @@ if __name__ == "__main__":
   <a href="https://github.com/ZiadMGamal/TraffiSumo-Simulator">
     <img
       height="165"
-      src="https://github-stats-extended.vercel.app/api/pin/?username=ZiadMGamal&repo=TraffiSumo-Simulator&theme=radical&hide_border=true"
+      src="https://github-stats-extended.vercel.app/api/pin/?username=ZiadMGamal&repo=TraffiSumo-Simulator&theme=radical&hide_border=true&cache_seconds=1"
       alt="Featured Project 3"
     />
   </a>
@@ -415,12 +415,13 @@ if __name__ == "__main__":
   <a href="https://github.com/ZiadMGamal/OmniFlow.Ai">
     <img
       height="165"
-      src="https://github-stats-extended.vercel.app/api/pin/?username=ZiadMGamal&repo=OmniFlow.Ai&theme=radical&hide_border=true"
+      src="https://github-stats-extended.vercel.app/api/pin/?username=ZiadMGamal&repo=OmniFlow.Ai&theme=radical&hide_border=true&cache_seconds=1"
       alt="Featured Project 4"
     />
   </a>
 </p>
 <br>
+
 
 
 ## Contact me
