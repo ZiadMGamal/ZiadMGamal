@@ -5,13 +5,13 @@
 <p align="center">
   <a href="https://git.io/typing-svg">
     <img
-      src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=2500&pause=900&color=00FF2A&center=true&vCenter=true&multiline=false&repeat=true&width=850&height=45&lines=AI%2FML+Engineer;Machine+Learning+Engineer+Intern+%40+FlyRank+AI;Computer+Vision+Engineer;Artificial+Intelligence+Student+%40+Sphinx+University;Deep+Learning+Engineer;Global+Competition+Participant+%40+Matsuo-Iwasawa+Lab%2C+University+of+Tokyo;MLOps+Engineer"
+      src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=2500&pause=900&color=00FF2A&center=true&vCenter=true&multiline=false&repeat=true&width=850&height=45&lines=AI%2FML+Engineer;Machine+Learning+Engineer+Intern+%40+FlyRank+AI;Computer+Vision+Engineer;Artificial+Intelligence+Student+%40+Sphinx+University;Deep+Learning+Engineer;Global+Competitor+%40+Matsuo-Iwasawa+Lab%2C+U.+of+Tokyo;MLOps+Engineer"
       alt="Typing SVG"
     />
   </a>
 </p>
-
 <br>
+
 
 ## About me
 
