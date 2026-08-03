@@ -423,16 +423,6 @@ if __name__ == "__main__":
   </a>
 </p>
 
-<p align="center">
-  <a href="https://drive.google.com/YOUR_CV_LINK_HERE">
-    <img
-      src="https://img.shields.io/badge/DOWNLOAD%20CV-4CAF50?style=for-the-badge&logo=googledrive&logoColor=white"
-      alt="Download CV"
-    />
-  </a>
-</p>
-
-<br>
 
 <p align="center">
   <img
