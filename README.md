@@ -352,10 +352,7 @@ if __name__ == "__main__":
 ---
 
 <p align="center">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ZiadMGamal/ZiadMGamal/output/github-contribution-grid-snake-dark.svg?v=2" />
-  <img src="https://raw.githubusercontent.com/ZiadMGamal/ZiadMGamal/output/github-contribution-grid-snake.svg?v=2" alt="Snake animation" width="100%" />
-</picture>
+<img src="https://raw.githubusercontent.com/ZiadMGamal/ZiadMGamal/output/github-contribution-grid-snake.svg?v=2" alt="Snake animation" width="100%" />
 </p>
 
 <br>
