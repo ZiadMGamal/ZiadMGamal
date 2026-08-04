@@ -294,21 +294,21 @@ if __name__ == "__main__":
 ## GitHub Stats
 
 ---
-
+ 
 <p align="center">
   <img
     height="165"
-    src="https://github-readme-stats.vercel.app/api?username=ZiadMGamal&show_icons=true&theme=radical&hide_border=true&count_private=true"
+    src="https://github-stats-extended.vercel.app/api?username=ZiadMGamal&show_icons=true&theme=radical&hide_border=true&count_private=true&cache_seconds=1"
     alt="GitHub Stats"
   />
   <img
     height="165"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZiadMGamal&layout=compact&theme=radical&hide_border=true"
+    src="https://github-stats-extended.vercel.app/api/top-langs/?username=ZiadMGamal&layout=compact&theme=radical&hide_border=true&cache_seconds=1"
     alt="Top Languages"
   />
 </p>
-
 <br>
+
 
 ## Streak Stats
 
@@ -340,15 +340,15 @@ if __name__ == "__main__":
 ## Trophies
 
 ---
-
+ 
 <p align="center">
   <img
-    src="https://github-profile-trophy.vercel.app/?username=ZiadMGamal&theme=radical&no-frame=true&margin-w=10&row=1"
+    src="https://raw.githubusercontent.com/ZiadMGamal/ZiadMGamal/output/trophy.svg"
     alt="GitHub Trophies"
   />
 </p>
-
 <br>
+
 
 ## Contribution Snake
 
