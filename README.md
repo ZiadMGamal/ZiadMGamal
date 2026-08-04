@@ -342,7 +342,7 @@ if __name__ == "__main__":
 ---
  
 <p align="center">
-<img src="https://raw.githubusercontent.com/ZiadMGamal/ZiadMGamal/output/trophy.svg" alt="GitHub Trophies" />
+<img src="https://github-trophies.vercel.app/?username=ZiadMGamal&theme=radical&no-frame=true&margin-w=10&row=1" alt="GitHub Trophies" />
 </p>
 <br>
 
