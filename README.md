@@ -1,4 +1,4 @@
-# Hi there, I'm Ziad Mohamed Gamal Mahmoud 👋
+# Hi there, I'm Ziad Mohamed Gamal 👋
 
 ---
 
