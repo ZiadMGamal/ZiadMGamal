@@ -1,3 +1,11 @@
+<p align="center">
+  <img
+    src="./assets/banner.png"
+    alt="Profile Banner"
+    width="100%"
+  />
+</p>
+
 # Hi there, I'm Ziad Mohamed Gamal 👋
 
 ---
@@ -5,7 +13,7 @@
 <p align="center">
   <a href="https://git.io/typing-svg">
     <img
-      src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=2500&pause=900&color=00FF2A&center=true&vCenter=true&multiline=false&repeat=true&width=850&height=45&lines=AI%2FML+Engineer;Machine+Learning+Engineer+Intern+%40+FlyRank+AI;Computer+Vision+Engineer;Artificial+Intelligence+Student+%40+Sphinx+University;Deep+Learning+Engineer;Global+Competitor+%40+Matsuo-Iwasawa+Lab%2C+U.+of+Tokyo;MLOps+Engineer"
+      src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=2500&pause=900&color=00FF2A&center=true&vCenter=true&multiline=false&repeat=true&width=900&height=60&lines=AI%2FML+Engineer;Machine+Learning+Engineer+Intern+%40+FlyRank+AI;Computer+Vision+Engineer;Artificial+Intelligence+Student+%40+Sphinx+University;Deep+Learning+Engineer;MLOps+Engineer"
       alt="Typing SVG"
     />
   </a>
@@ -37,18 +45,6 @@ class ZiadMGamal:
                 "Generative AI",
                 "Multi-Agent Systems",
                 "Reinforcement Learning",
-            ],
-
-            "🔬 Research & Competition Experience": (
-                "Global Competition Participant at Matsuo-Iwasawa Lab, "
-                "University of Tokyo"
-            ),
-
-            "🏆 Achievements": [
-                "Ranked 19th among 12,378 participants worldwide in GCI World 2026",
-                "Qualified for the National Phase of the Huawei ICT Competition "
-                "2025-2026 - AI Track",
-                "Participant in the Egyptian Collegiate Programming Contest - ECPC 2025",
             ],
 
             "🚀 Currently Building": [
@@ -101,7 +97,7 @@ if __name__ == "__main__":
 
 <p align="center">
   <img
-    src="https://skillicons.dev/icons?i=python,r,cpp,js"
+    src="https://skillicons.dev/icons?i=python,r,cpp,cs,js"
     alt="Programming Languages"
   />
 </p>
@@ -323,20 +319,6 @@ if __name__ == "__main__":
 
 <br>
 
-## Activity Graph
-
----
-
-<p align="center">
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=ZiadMGamal&theme=redical&hide_border=true"
-    alt="Activity Graph"
-    width="90%"
-  />
-</p>
-
-<br>
-
 ## Trophies
 
 ---
@@ -436,12 +418,4 @@ if __name__ == "__main__":
       alt="LinkedIn"
     />
   </a>
-</p>
-
-
-<p align="center">
-  <img
-    src="https://komarev.com/ghpvc/?username=ZiadMGamal&color=00FF2A&style=for-the-badge&label=PROFILE+VIEWS"
-    alt="Visitor Counter"
-  />
 </p>
