@@ -1,15 +1,7 @@
 <p align="center">
   <img
-    src="https://capsule-render.vercel.app/api?type=waving&height=240&section=header&color=0:0f0c29,50:6a1b9a,100:ff2e97&text=Ziad%20Mohamed%20Gamal&fontSize=54&fontColor=00FF2A&fontAlignY=38&animation=fadeIn&desc=AI%20%EF%BC%86%20ML%20Engineer%20%7C%20COMPUTER%20VISION%20%7C%20DEEP%20LEARNING%20%7C%20MLOPS&descSize=22&descColor=00FF2A&descAlignY=60"
-    alt="Ziad Mohamed Gamal - AI & ML Engineer | COMPUTER VISION | DEEP LEARNING | MLOPS"
-    width="100%"
-  />
-</p>
-
-<p align="center">
-  <img
     src="./banner.svg"
-    alt="Animated pixel-art banner"
+    alt="Ziad Mohamed Gamal - AI & ML Engineer | COMPUTER VISION | DEEP LEARNING | MLOPS - animated pixel-art banner of a robot shipping a model to production"
     width="100%"
   />
 </p>
@@ -298,7 +290,7 @@ if __name__ == "__main__":
 ## GitHub Stats
 
 ---
- 
+
 <p align="center">
   <img
     height="165"
@@ -330,7 +322,7 @@ if __name__ == "__main__":
 ## Trophies
 
 ---
- 
+
 <p align="center">
 <img src="https://github-trophies.vercel.app/?username=ZiadMGamal&theme=radical&no-frame=true&margin-w=10&row=1" alt="GitHub Trophies" />
 </p>
@@ -351,7 +343,7 @@ if __name__ == "__main__":
 
 
 ---
- 
+
 <p align="center">
   <!--
     Description: Production-ready computer vision pipeline with multi-object tracking
@@ -426,4 +418,14 @@ if __name__ == "__main__":
       alt="LinkedIn"
     />
   </a>
+</p>
+
+<br>
+
+<p align="center">
+  <img
+    src="https://capsule-render.vercel.app/api?type=waving&height=140&section=footer&color=0:0f0c29,50:6a1b9a,100:ff2e97"
+    alt="Footer wave"
+    width="100%"
+  />
 </p>
