@@ -1,6 +1,6 @@
 <p align="center">
   <img
-    src="https://capsule-render.vercel.app/api?type=waving&height=240&section=header&color=0:0f0c29,50:6a1b9a,100:ff2e97&text=Ziad%20Mohamed%20Gamal&fontSize=54&fontColor=00FF2A&fontAlignY=38&animation=fadeIn&desc=AI%20%26%20ML%20Engineer%20%7C%20COMPUTER%20VISION%20%7C%20DEEP%20LEARNING%20%7C%20MLOPS&descSize=22&descColor=00FF2A&descAlignY=60"
+    src="https://capsule-render.vercel.app/api?type=waving&height=240&section=header&color=0:0f0c29,50:6a1b9a,100:ff2e97&text=Ziad%20Mohamed%20Gamal&fontSize=54&fontColor=00FF2A&fontAlignY=38&animation=fadeIn&desc=AI%20%EF%BC%86%20ML%20Engineer%20%7C%20COMPUTER%20VISION%20%7C%20DEEP%20LEARNING%20%7C%20MLOPS&descSize=22&descColor=00FF2A&descAlignY=60"
     alt="Ziad Mohamed Gamal - AI & ML Engineer | COMPUTER VISION | DEEP LEARNING | MLOPS"
     width="100%"
   />
