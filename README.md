@@ -8,7 +8,7 @@
 
 <p align="center">
   <img
-    src="./assets/banner.svg"
+    src="./banner.svg"
     alt="Animated pixel-art banner"
     width="100%"
   />
